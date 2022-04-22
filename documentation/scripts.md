@@ -13,5 +13,5 @@
 </body>
 ```
 
-![webhooks](images/script-calculo-envio.png)
+![calcula](images/script-calculo-envio.png)
 
