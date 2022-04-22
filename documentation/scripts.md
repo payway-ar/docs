@@ -1,9 +1,4 @@
 # Scripts
-
-Tabla de contenido
-=================
-* [Cálculo y envío del DF](#Cálculo y envío del DF)
-
 ## Cálculo y envío del DF
 
 > DESC.
@@ -18,4 +13,4 @@ Tabla de contenido
 </body>
 ```
 
-[![logo](images/script-calculo-envio.png)]
+[![ce](images/script-calculo-envio.png)](#)
