@@ -1,7 +1,9 @@
 # Scripts
-## Cálculo y envío del DF
+## Implementacion CyberSource generacion y envio de Fingerprint
 
-> DESC.
+> Implementacion que brinda el equipo de CyberSource para enviar el Fingerprint, previo al envio del pago.
+> El tag <session_id> corresponde a un valor unico (UUID) que debe generar el comercio para enviar.
+> 
 ```bash
 <head>
     <script type="text/javascript" src="https://h.online-metrix.net/fp/tags.js?org_id=<org ID>&session_id=<merchant ID><session ID>"></script>
@@ -13,5 +15,5 @@
 </body>
 ```
 
-![calcula](images/script-calculo-envio.png)
+![fp](images/script-fp-generacion-envio.png)
 
